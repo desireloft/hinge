@@ -10,7 +10,7 @@ This repository showcases a hinge assembly designed in **SolidWorks** to demonst
 
 ## Demo Video
 
-[Click here to watch the Hinge video](https://desireloft.github.io/hinge/hinge.html)
+[Click here to watch the Hinge animation video](https://desireloft.github.io/hinge/hinge.html)
 
 ## Project Details
 

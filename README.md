@@ -1,8 +1,16 @@
 # Hinge Assembly
 
+<div style="display: flex; justify-content: space-around;">
+  <img src="./media/hinge_assy.png" alt="Hinge Assembly" width="300">
+</div>
+
 ## Overview
 
 This repository showcases a hinge assembly designed in **SolidWorks** to demonstrate my expertise in sheet metal design, CAD modeling, and technical documentation. The project includes a complete hinge assembly, individual part models, technical drawings with Geometric Dimensioning and Tolerancing (GD&T), and STEP files for interoperability. The design incorporates clearance fit to ensure free rotation and a hinge mate for accurate assembly motion, highlighting skills in precision engineering and manufacturability for sheet metal applications.
+
+## Demo Video
+
+[Click here to watch the Hinge video](https://desireloft.github.io/hinge/hinge.html)
 
 ## Project Details
 
